@@ -9,6 +9,7 @@ import api from '../../services/api';
 import Header from '../../components/Header';
 
 import formatValue from '../../utils/formatValue';
+import formatDate from '../../utils/formatData';
 
 import { Container, CardContainer, Card, TableContainer } from './styles';
 
